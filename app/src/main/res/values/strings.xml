@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Rapidjava</string>
+    <string name="my_account">My Account</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="save_changes">SAVE CHANGES</string>
+    <string name="view_cards">VIEW CARDS</string>
+    <string name="logout">LOGOUT</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="login_title">Sign In</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login_button">Login</string>
+    <string name="biometric_login">Use fingerprint</string>
+    <string name="no_account_prompt">Don\'t have an account?</string>
+    <string name="register_button">Create account</string>
+    <string name="enable_biometric">Enable Fingerprint Login</string>
+    <string name="biometric_success">Fingerprint enabled successfully!</string>
+    <string name="biometric_failed">Fingerprint setup failed</string>
+    <string name="back_button" />
+    <string name="activity">Activity</string>
+    <string name="cancel" />
+    <string name="confirm" />
+    <string name="confirm_payment" />
+    <string name="wallet_icon" />
+</resources>

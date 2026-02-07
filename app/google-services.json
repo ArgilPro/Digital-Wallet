@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717162722039",
+    "project_id": "fintech-login-3b99a",
+    "storage_bucket": "fintech-login-3b99a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717162722039:android:f6705af402d407435759f2",
+        "android_client_info": {
+          "package_name": "com.example.rapidjava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhcvobXacCDhRSCcYzI1voLcfTuWlYjos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

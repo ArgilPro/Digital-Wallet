@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="loadingProgress" type="id" />
+    <item name="loadingMessage" type="id" />
+    <item name="loadingOverlay" type="id" />
+    <item name="mainContent" type="id" />
+</resources>

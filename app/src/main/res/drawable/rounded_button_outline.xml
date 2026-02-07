@@ -1,0 +1,16 @@
+<!-- res/drawable/rounded_button_outline.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Kleur van de outline -->
+    <stroke
+        android:width="2dp"
+        android:color="#003087" /> <!-- Gebruik dezelfde kleur als je primary color -->
+
+    <!-- Transparante achtergrond -->
+    <solid android:color="@android:color/transparent" />
+
+    <!-- Afgeronde hoeken -->
+    <corners android:radius="25dp" /> <!-- Zelfde radius als je andere buttons -->
+
+</shape>

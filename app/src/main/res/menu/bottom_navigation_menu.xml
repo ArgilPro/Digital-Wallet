@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="Home" />
+    <item
+        android:id="@+id/scan"
+        android:icon="@drawable/qr_code_scanner_24dp_e8eaed_fill0_wght400_grad0_opsz24"
+        android:title="Scan" />
+    <item
+        android:id="@+id/request"
+        android:icon="@drawable/qr_code_24dp_e8eaed_fill0_wght400_grad0_opsz24"
+        android:title="QRCode" />
+    <item
+        android:id="@+id/topup"
+        android:icon="@drawable/add_card_24"
+        android:title="Top-Up"/>
+</menu>
